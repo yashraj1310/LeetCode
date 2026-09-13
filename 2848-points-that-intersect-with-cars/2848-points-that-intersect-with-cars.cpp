@@ -1,52 +1,35 @@
 class Solution {
 public:
-    struct data{
-        int start;
-        int end;
-    };
-    static bool comp(data val1, data val2)
-    {
-        return val1.start < val2.start;
-    }
     int numberOfPoints(vector<vector<int>>& nums) 
     {
         int n = nums.size();
-        vector<data> arr;
+        int maxi = 0;
 
         for(int i=0;i<n;i++)
         {
-            data temp;
-            temp.start = nums[i][0];
-            temp.end = nums[i][1];
-            arr.push_back(temp);
+            maxi = max(maxi, nums[i][1]);
         }
 
-        sort(arr.begin(), arr.end(), comp);
+        vector<int> arr(maxi+1, 0);
 
-        vector<vector<int>> ans;
-
-        int startTime = arr[0].start;
-        int endTime = arr[0].end;
-
-        for(int i=1;i<arr.size();i++)
+        for(int i=0;i<n;i++)
         {
-            if(arr[i].start <= endTime)
-                endTime = max(arr[i].end, endTime);
+            int start = nums[i][0] - 1;
+            int end = nums[i][1] - 1;
 
-            else{
-                ans.push_back({startTime, endTime});
-                startTime = arr[i].start;
-                endTime = arr[i].end;
-            }
+            arr[start] += 1;
+            arr[end+1] -= 1;
         }
 
-        ans.push_back({startTime, endTime});
-
+        int preSum = 0;
         int count = 0;
 
-        for(int i=0;i<ans.size();i++)
+        for(int i=0;i<maxi;i++)
         {
-            count = count + (ans[i][1] - ans[i][0] + 1);
+            preSum = preSum + arr[i];
+
+            if(preSum > 0)
+                count++;
         }
 
         return count;
