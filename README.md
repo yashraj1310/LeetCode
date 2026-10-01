@@ -66,9 +66,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0020-valid-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashraj1310/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashraj1310/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
