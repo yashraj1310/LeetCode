@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashraj1310/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0274-h-index](https://github.com/yashraj1310/LeetCode/tree/master/0274-h-index) |
 | [0304-range-sum-query-2d-immutable](https://github.com/yashraj1310/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0605-can-place-flowers](https://github.com/yashraj1310/LeetCode/tree/master/0605-can-place-flowers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashraj1310/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashraj1310/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
