@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/yashraj1310/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/yashraj1310/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/yashraj1310/LeetCode/tree/master/0595-big-countries) |
+| [1068-product-sales-analysis-i](https://github.com/yashraj1310/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/yashraj1310/LeetCode/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/yashraj1310/LeetCode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/yashraj1310/LeetCode/tree/master/1280-students-and-examinations) |
