@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0274-h-index](https://github.com/yashraj1310/LeetCode/tree/master/0274-h-index) |
 | [0304-range-sum-query-2d-immutable](https://github.com/yashraj1310/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0605-can-place-flowers](https://github.com/yashraj1310/LeetCode/tree/master/0605-can-place-flowers) |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/yashraj1310/LeetCode/tree/master/0274-h-index) |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/yashraj1310/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 ## Heap (Priority Queue)
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yashraj1310/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/yashraj1310/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/yashraj1310/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/yashraj1310/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
