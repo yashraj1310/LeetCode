@@ -12,33 +12,52 @@
 class Solution {
 public:
 
-    void preorder(TreeNode* node, vector<TreeNode*>& arr)
-    {
-        if(node==NULL)
-            return;
+    // void preorder(TreeNode* node, vector<TreeNode*>& arr)
+    // {
+    //     if(node==NULL)
+    //         return;
 
-        arr.push_back(node);
-        preorder(node->left, arr);
-        preorder(node->right, arr);
-    }
+    //     arr.push_back(node);
+    //     preorder(node->left, arr);
+    //     preorder(node->right, arr);
+    // }
 
-    void flatten(TreeNode* root) 
+    // void flatten(TreeNode* root) 
+    // {
+    //     if(root==NULL)
+    //         return;
+
+    //     vector<TreeNode*> arr;
+    //     preorder(root, arr);
+
+    //     int n = arr.size();
+
+    //     for(int i=0;i<n-1;i++)
+    //     {
+    //         arr[i]->left=NULL;
+    //         arr[i]->right=arr[i+1];
+    //     }
+
+    //     arr[n-1]->left = NULL;
+    //     arr[n-1]->right = NULL;
+    // }
+
+
+    //Without Extra Space
+    //Follow complete opposite traversal of preorder, i.e Right Left Root
+
+    TreeNode* prev = NULL;
+
+    void flatten(TreeNode* root)
     {
         if(root==NULL)
             return;
 
-        vector<TreeNode*> arr;
-        preorder(root, arr);
+        flatten(root->right);
+        flatten(root->left);
 
-        int n = arr.size();
-
-        for(int i=0;i<n-1;i++)
-        {
-            arr[i]->left=NULL;
-            arr[i]->right=arr[i+1];
-        }
-
-        arr[n-1]->left = NULL;
-        arr[n-1]->right = NULL;
+        root->right = prev;
+        root->left = NULL;
+        prev = root;
     }
 };
