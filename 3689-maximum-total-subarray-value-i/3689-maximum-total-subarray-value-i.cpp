@@ -3,15 +3,15 @@ public:
     long long maxTotalValue(vector<int>& nums, int k) 
     {
         int n = nums.size();
-        sort(nums.begin(), nums.end());
+        int mini = nums[0];
+        int maxi = nums[0];
 
-        long long ans = 0;
-
-        while(k--)
+        for(int i=0;i<n;i++)
         {
-            ans = ans + nums[n-1]-nums[0];
-        }    
+            mini = min(mini, nums[i]);
+            maxi = max(maxi, nums[i]);
+        }
 
-        return ans;
+        return (long long)(maxi-mini)*k;
     }
 };
