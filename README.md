@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/yashraj1310/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashraj1310/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/yashraj1310/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashraj1310/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yashraj1310/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yashraj1310/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2848-points-that-intersect-with-cars](https://github.com/yashraj1310/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashraj1310/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
 | ------- |
@@ -232,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashraj1310/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashraj1310/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashraj1310/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashraj1310/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
