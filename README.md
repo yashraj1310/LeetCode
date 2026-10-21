@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/yashraj1310/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1609-even-odd-tree](https://github.com/yashraj1310/LeetCode/tree/master/1609-even-odd-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yashraj1310/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/yashraj1310/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/yashraj1310/LeetCode/tree/master/1609-even-odd-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yashraj1310/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/yashraj1310/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/yashraj1310/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1609-even-odd-tree](https://github.com/yashraj1310/LeetCode/tree/master/1609-even-odd-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yashraj1310/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/yashraj1310/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
