@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/yashraj1310/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1609-even-odd-tree](https://github.com/yashraj1310/LeetCode/tree/master/1609-even-odd-tree) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yashraj1310/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/yashraj1310/LeetCode/tree/master/1609-even-odd-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yashraj1310/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/yashraj1310/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1609-even-odd-tree](https://github.com/yashraj1310/LeetCode/tree/master/1609-even-odd-tree) |
