@@ -12,28 +12,27 @@
 class Solution {
 public:
 
-    bool isSame(TreeNode* a, TreeNode* b)
-    {
-        if(a==NULL && b==NULL)
-            return true;
-
-        if((a==NULL && b!=NULL) || (a!=NULL && b==NULL))
-            return false;
-
-        if(a->val!=b->val)
-            return false;
-
-        bool check = isSame(a->left, b->right) && isSame(a->right, b->left);
-        //They should be mirror images
-
-        return check;
-    }
-
     bool isSymmetric(TreeNode* root) 
     {
-        if(root==NULL)
-            return true;
+        queue<pair<TreeNode*, TreeNode*>> q;
+        q.push({root->left, root->right});
 
-        return isSame(root->left, root->right);    
+        while(!q.empty())
+        {
+            TreeNode* first = q.front().first;
+            TreeNode* second = q.front().second;
+            q.pop();
+
+            if(!first && !second)
+                continue;
+
+            if(!first || !second || first->val != second->val)
+                return false;
+
+            q.push({first->left, second->right});
+            q.push({first->right, second->left});
+        }
+
+        return true;
     }
 };
