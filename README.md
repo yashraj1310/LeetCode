@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/yashraj1310/LeetCode/tree/master/0223-rectangle-area) |
+| [0507-perfect-number](https://github.com/yashraj1310/LeetCode/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/yashraj1310/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yashraj1310/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
