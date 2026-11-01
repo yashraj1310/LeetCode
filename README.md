@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/yashraj1310/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/yashraj1310/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yashraj1310/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Geometry
 |  |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/yashraj1310/LeetCode/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/yashraj1310/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/yashraj1310/LeetCode/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/yashraj1310/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Greatest Common Divisor
 |  |
 | ------- |
@@ -380,11 +383,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/yashraj1310/LeetCode/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/yashraj1310/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/yashraj1310/LeetCode/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/yashraj1310/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Recursion
 |  |
 | ------- |
