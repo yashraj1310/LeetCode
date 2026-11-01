@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/yashraj1310/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yashraj1310/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2761-prime-pairs-with-target-sum](https://github.com/yashraj1310/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashraj1310/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/yashraj1310/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashraj1310/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/yashraj1310/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
+| [2761-prime-pairs-with-target-sum](https://github.com/yashraj1310/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yashraj1310/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Geometry
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/yashraj1310/LeetCode/tree/master/0204-count-primes) |
+| [2761-prime-pairs-with-target-sum](https://github.com/yashraj1310/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashraj1310/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Lifting
 |  |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/yashraj1310/LeetCode/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/yashraj1310/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
+| [2761-prime-pairs-with-target-sum](https://github.com/yashraj1310/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Prime Factorization
 |  |
 | ------- |
