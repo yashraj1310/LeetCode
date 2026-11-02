@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/yashraj1310/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Greedy
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/yashraj1310/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/yashraj1310/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/yashraj1310/LeetCode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/yashraj1310/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/yashraj1310/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2761-prime-pairs-with-target-sum](https://github.com/yashraj1310/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/yashraj1310/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/yashraj1310/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/yashraj1310/LeetCode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/yashraj1310/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/yashraj1310/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2761-prime-pairs-with-target-sum](https://github.com/yashraj1310/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prime Factorization
 |  |
 | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/yashraj1310/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/yashraj1310/LeetCode/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/yashraj1310/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/yashraj1310/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3115-maximum-prime-difference](https://github.com/yashraj1310/LeetCode/tree/master/3115-maximum-prime-difference) |
@@ -401,12 +406,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/yashraj1310/LeetCode/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/yashraj1310/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/yashraj1310/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/yashraj1310/LeetCode/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/yashraj1310/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/yashraj1310/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Recursion
