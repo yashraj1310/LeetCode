@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/yashraj1310/LeetCode/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/yashraj1310/LeetCode/tree/master/0274-h-index) |
 | [0304-range-sum-query-2d-immutable](https://github.com/yashraj1310/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/yashraj1310/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashraj1310/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0605-can-place-flowers](https://github.com/yashraj1310/LeetCode/tree/master/0605-can-place-flowers) |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yashraj1310/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/yashraj1310/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/yashraj1310/LeetCode/tree/master/0223-rectangle-area) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/yashraj1310/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashraj1310/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/yashraj1310/LeetCode/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/yashraj1310/LeetCode/tree/master/0836-rectangle-overlap) |
