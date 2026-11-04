@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yashraj1310/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/yashraj1310/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yashraj1310/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/yashraj1310/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/yashraj1310/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/yashraj1310/LeetCode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/yashraj1310/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0020-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashraj1310/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/yashraj1310/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashraj1310/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/yashraj1310/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
