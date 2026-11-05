@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/yashraj1310/LeetCode/tree/master/0605-can-place-flowers) |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/yashraj1310/LeetCode/tree/master/1109-corporate-flight-bookings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashraj1310/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yashraj1310/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/yashraj1310/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yashraj1310/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/yashraj1310/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashraj1310/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yashraj1310/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/yashraj1310/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashraj1310/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashraj1310/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashraj1310/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashraj1310/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/yashraj1310/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/yashraj1310/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashraj1310/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yashraj1310/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
