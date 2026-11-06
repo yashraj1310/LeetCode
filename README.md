@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashraj1310/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/yashraj1310/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashraj1310/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yashraj1310/LeetCode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3115-maximum-prime-difference](https://github.com/yashraj1310/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3446-sort-matrix-by-diagonals](https://github.com/yashraj1310/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3689-maximum-total-subarray-value-i](https://github.com/yashraj1310/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -75,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yashraj1310/LeetCode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Simulation
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/yashraj1310/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yashraj1310/LeetCode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Greedy
 |  |
 | ------- |
