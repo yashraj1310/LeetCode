@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yashraj1310/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/yashraj1310/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yashraj1310/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/yashraj1310/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/yashraj1310/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/yashraj1310/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/yashraj1310/LeetCode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/yashraj1310/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yashraj1310/LeetCode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Simulation
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/yashraj1310/LeetCode/tree/master/0605-can-place-flowers) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/yashraj1310/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/yashraj1310/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashraj1310/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3689-maximum-total-subarray-value-i](https://github.com/yashraj1310/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yashraj1310/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
