@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/yashraj1310/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/yashraj1310/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/yashraj1310/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/yashraj1310/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/yashraj1310/LeetCode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/yashraj1310/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -78,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/yashraj1310/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/yashraj1310/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yashraj1310/LeetCode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Simulation
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/yashraj1310/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/yashraj1310/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yashraj1310/LeetCode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Greedy
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashraj1310/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yashraj1310/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/yashraj1310/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashraj1310/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/yashraj1310/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String
