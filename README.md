@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yashraj1310/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/yashraj1310/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/yashraj1310/LeetCode/tree/master/0223-rectangle-area) |
+| [0372-super-pow](https://github.com/yashraj1310/LeetCode/tree/master/0372-super-pow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yashraj1310/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashraj1310/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/yashraj1310/LeetCode/tree/master/0507-perfect-number) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashraj1310/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashraj1310/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0372-super-pow](https://github.com/yashraj1310/LeetCode/tree/master/0372-super-pow) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -445,4 +447,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/yashraj1310/LeetCode/tree/master/0050-powx-n) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/yashraj1310/LeetCode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/yashraj1310/LeetCode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
