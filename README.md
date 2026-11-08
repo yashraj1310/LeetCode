@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/yashraj1310/LeetCode/tree/master/0605-can-place-flowers) |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/yashraj1310/LeetCode/tree/master/1109-corporate-flight-bookings) |
+| [1267-count-servers-that-communicate](https://github.com/yashraj1310/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yashraj1310/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yashraj1310/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/yashraj1310/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/yashraj1310/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1267-count-servers-that-communicate](https://github.com/yashraj1310/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3446-sort-matrix-by-diagonals](https://github.com/yashraj1310/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Math
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/yashraj1310/LeetCode/tree/master/0274-h-index) |
+| [1267-count-servers-that-communicate](https://github.com/yashraj1310/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashraj1310/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Tree
 |  |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/yashraj1310/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/yashraj1310/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/yashraj1310/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1609-even-odd-tree](https://github.com/yashraj1310/LeetCode/tree/master/1609-even-odd-tree) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/yashraj1310/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1267-count-servers-that-communicate](https://github.com/yashraj1310/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/yashraj1310/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/yashraj1310/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/yashraj1310/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -467,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/yashraj1310/LeetCode/tree/master/0372-super-pow) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/yashraj1310/LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
