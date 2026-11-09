@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/yashraj1310/LeetCode/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/yashraj1310/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashraj1310/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0767-reorganize-string](https://github.com/yashraj1310/LeetCode/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/yashraj1310/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0767-reorganize-string](https://github.com/yashraj1310/LeetCode/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
 | [1405-longest-happy-string](https://github.com/yashraj1310/LeetCode/tree/master/1405-longest-happy-string) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/yashraj1310/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/yashraj1310/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0919-complete-binary-tree-inserter](https://github.com/yashraj1310/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashraj1310/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0295-find-median-from-data-stream](https://github.com/yashraj1310/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yashraj1310/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/yashraj1310/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashraj1310/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -487,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/yashraj1310/LeetCode/tree/master/1267-count-servers-that-communicate) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/yashraj1310/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
