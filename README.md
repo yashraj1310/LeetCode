@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yashraj1310/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/yashraj1310/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashraj1310/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2182-construct-string-with-repeat-limit](https://github.com/yashraj1310/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yashraj1310/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/yashraj1310/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/yashraj1310/LeetCode/tree/master/1405-longest-happy-string) |
 | [1675-minimize-deviation-in-array](https://github.com/yashraj1310/LeetCode/tree/master/1675-minimize-deviation-in-array) |
 | [1792-maximum-average-pass-ratio](https://github.com/yashraj1310/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
+| [2182-construct-string-with-repeat-limit](https://github.com/yashraj1310/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/yashraj1310/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/yashraj1310/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/yashraj1310/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/yashraj1310/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1675-minimize-deviation-in-array](https://github.com/yashraj1310/LeetCode/tree/master/1675-minimize-deviation-in-array) |
 | [1792-maximum-average-pass-ratio](https://github.com/yashraj1310/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
+| [2182-construct-string-with-repeat-limit](https://github.com/yashraj1310/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/yashraj1310/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/yashraj1310/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/yashraj1310/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/yashraj1310/LeetCode/tree/master/1405-longest-happy-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/yashraj1310/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashraj1310/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2182-construct-string-with-repeat-limit](https://github.com/yashraj1310/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/yashraj1310/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashraj1310/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/yashraj1310/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/yashraj1310/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yashraj1310/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashraj1310/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2182-construct-string-with-repeat-limit](https://github.com/yashraj1310/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/yashraj1310/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Tree
 |  |
