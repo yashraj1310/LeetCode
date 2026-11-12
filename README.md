@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2761-prime-pairs-with-target-sum](https://github.com/yashraj1310/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashraj1310/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/yashraj1310/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/yashraj1310/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashraj1310/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yashraj1310/LeetCode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yashraj1310/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/yashraj1310/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/yashraj1310/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/yashraj1310/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashraj1310/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/yashraj1310/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/yashraj1310/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashraj1310/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/yashraj1310/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3689-maximum-total-subarray-value-i](https://github.com/yashraj1310/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yashraj1310/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yashraj1310/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/yashraj1310/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yashraj1310/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashraj1310/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/yashraj1310/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Tree
 |  |
 | ------- |
