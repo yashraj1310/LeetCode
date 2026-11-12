@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/yashraj1310/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/yashraj1310/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/yashraj1310/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/yashraj1310/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/yashraj1310/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/yashraj1310/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/yashraj1310/LeetCode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/yashraj1310/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashraj1310/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yashraj1310/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/yashraj1310/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/yashraj1310/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3446-sort-matrix-by-diagonals](https://github.com/yashraj1310/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yashraj1310/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/yashraj1310/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/yashraj1310/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/yashraj1310/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/yashraj1310/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashraj1310/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3689-maximum-total-subarray-value-i](https://github.com/yashraj1310/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yashraj1310/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
