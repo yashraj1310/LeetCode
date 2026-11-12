@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/yashraj1310/LeetCode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/yashraj1310/LeetCode/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yashraj1310/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1029-two-city-scheduling](https://github.com/yashraj1310/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/yashraj1310/LeetCode/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/yashraj1310/LeetCode/tree/master/1109-corporate-flight-bookings) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/yashraj1310/LeetCode/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/yashraj1310/LeetCode/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1029-two-city-scheduling](https://github.com/yashraj1310/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/yashraj1310/LeetCode/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/yashraj1310/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/yashraj1310/LeetCode/tree/master/0605-can-place-flowers) |
 | [0767-reorganize-string](https://github.com/yashraj1310/LeetCode/tree/master/0767-reorganize-string) |
+| [1029-two-city-scheduling](https://github.com/yashraj1310/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/yashraj1310/LeetCode/tree/master/1054-distant-barcodes) |
 | [1405-longest-happy-string](https://github.com/yashraj1310/LeetCode/tree/master/1405-longest-happy-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yashraj1310/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -525,4 +528,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1675-minimize-deviation-in-array](https://github.com/yashraj1310/LeetCode/tree/master/1675-minimize-deviation-in-array) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/yashraj1310/LeetCode/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/yashraj1310/LeetCode/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
