@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/yashraj1310/LeetCode/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/yashraj1310/LeetCode/tree/master/0605-can-place-flowers) |
 | [0767-reorganize-string](https://github.com/yashraj1310/LeetCode/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashraj1310/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1029-two-city-scheduling](https://github.com/yashraj1310/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/yashraj1310/LeetCode/tree/master/1054-distant-barcodes) |
 | [1405-longest-happy-string](https://github.com/yashraj1310/LeetCode/tree/master/1405-longest-happy-string) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/yashraj1310/LeetCode/tree/master/0179-largest-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0767-reorganize-string](https://github.com/yashraj1310/LeetCode/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashraj1310/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1405-longest-happy-string](https://github.com/yashraj1310/LeetCode/tree/master/1405-longest-happy-string) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/yashraj1310/LeetCode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/yashraj1310/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -236,10 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yashraj1310/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/yashraj1310/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/yashraj1310/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashraj1310/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashraj1310/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Database
 |  |
 | ------- |
