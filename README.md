@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/yashraj1310/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/yashraj1310/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashraj1310/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2864-maximum-odd-binary-number](https://github.com/yashraj1310/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/yashraj1310/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3689-maximum-total-subarray-value-i](https://github.com/yashraj1310/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yashraj1310/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/yashraj1310/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/yashraj1310/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2761-prime-pairs-with-target-sum](https://github.com/yashraj1310/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
+| [2864-maximum-odd-binary-number](https://github.com/yashraj1310/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3099-harshad-number](https://github.com/yashraj1310/LeetCode/tree/master/3099-harshad-number) |
 | [3115-maximum-prime-difference](https://github.com/yashraj1310/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yashraj1310/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/yashraj1310/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/yashraj1310/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashraj1310/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2864-maximum-odd-binary-number](https://github.com/yashraj1310/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/yashraj1310/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
