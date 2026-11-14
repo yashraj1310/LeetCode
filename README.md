@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yashraj1310/LeetCode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yashraj1310/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3115-maximum-prime-difference](https://github.com/yashraj1310/LeetCode/tree/master/3115-maximum-prime-difference) |
+| [3364-minimum-positive-sum-subarray](https://github.com/yashraj1310/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3446-sort-matrix-by-diagonals](https://github.com/yashraj1310/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3689-maximum-total-subarray-value-i](https://github.com/yashraj1310/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yashraj1310/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/yashraj1310/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/yashraj1310/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2848-points-that-intersect-with-cars](https://github.com/yashraj1310/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
+| [3364-minimum-positive-sum-subarray](https://github.com/yashraj1310/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -573,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/yashraj1310/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/yashraj1310/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
