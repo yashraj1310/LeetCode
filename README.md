@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/yashraj1310/LeetCode/tree/master/0179-largest-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0767-reorganize-string](https://github.com/yashraj1310/LeetCode/tree/master/0767-reorganize-string) |
@@ -233,12 +234,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashraj1310/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashraj1310/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yashraj1310/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/yashraj1310/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/yashraj1310/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashraj1310/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yashraj1310/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Database
