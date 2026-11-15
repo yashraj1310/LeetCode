@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashraj1310/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/yashraj1310/LeetCode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/yashraj1310/LeetCode/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/yashraj1310/LeetCode/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yashraj1310/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0946-validate-stack-sequences](https://github.com/yashraj1310/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1029-two-city-scheduling](https://github.com/yashraj1310/LeetCode/tree/master/1029-two-city-scheduling) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/yashraj1310/LeetCode/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/yashraj1310/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/yashraj1310/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/yashraj1310/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/yashraj1310/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/yashraj1310/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/yashraj1310/LeetCode/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashraj1310/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/yashraj1310/LeetCode/tree/master/0946-validate-stack-sequences) |
