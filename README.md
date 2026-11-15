@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/yashraj1310/LeetCode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/yashraj1310/LeetCode/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yashraj1310/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0946-validate-stack-sequences](https://github.com/yashraj1310/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1029-two-city-scheduling](https://github.com/yashraj1310/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/yashraj1310/LeetCode/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/yashraj1310/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/yashraj1310/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/yashraj1310/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/yashraj1310/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashraj1310/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/yashraj1310/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yashraj1310/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
