@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yashraj1310/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yashraj1310/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yashraj1310/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashraj1310/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/yashraj1310/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/yashraj1310/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1675-minimize-deviation-in-array](https://github.com/yashraj1310/LeetCode/tree/master/1675-minimize-deviation-in-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/yashraj1310/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/yashraj1310/LeetCode/tree/master/1109-corporate-flight-bookings) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashraj1310/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/yashraj1310/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2848-points-that-intersect-with-cars](https://github.com/yashraj1310/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [3364-minimum-positive-sum-subarray](https://github.com/yashraj1310/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/yashraj1310/LeetCode/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/yashraj1310/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashraj1310/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/yashraj1310/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1922-count-good-numbers](https://github.com/yashraj1310/LeetCode/tree/master/1922-count-good-numbers) |
 | [2427-number-of-common-factors](https://github.com/yashraj1310/LeetCode/tree/master/2427-number-of-common-factors) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashraj1310/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashraj1310/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashraj1310/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
