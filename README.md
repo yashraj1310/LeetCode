@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/yashraj1310/LeetCode/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/yashraj1310/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/yashraj1310/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/yashraj1310/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/yashraj1310/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yashraj1310/LeetCode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/yashraj1310/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashraj1310/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2182-construct-string-with-repeat-limit](https://github.com/yashraj1310/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/yashraj1310/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/yashraj1310/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yashraj1310/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2864-maximum-odd-binary-number](https://github.com/yashraj1310/LeetCode/tree/master/2864-maximum-odd-binary-number) |
