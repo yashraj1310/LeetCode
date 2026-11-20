@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/yashraj1310/LeetCode/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/yashraj1310/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/yashraj1310/LeetCode/tree/master/0394-decode-string) |
 | [0767-reorganize-string](https://github.com/yashraj1310/LeetCode/tree/master/0767-reorganize-string) |
 | [0856-score-of-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashraj1310/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yashraj1310/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashraj1310/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/yashraj1310/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/yashraj1310/LeetCode/tree/master/0394-decode-string) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/yashraj1310/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/yashraj1310/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/yashraj1310/LeetCode/tree/master/0682-baseball-game) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/yashraj1310/LeetCode/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/yashraj1310/LeetCode/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/yashraj1310/LeetCode/tree/master/1922-count-good-numbers) |
 ## Euler's Totient Function
 |  |
