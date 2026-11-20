@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/yashraj1310/LeetCode/tree/master/1405-longest-happy-string) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/yashraj1310/LeetCode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yashraj1310/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1544-make-the-string-great](https://github.com/yashraj1310/LeetCode/tree/master/1544-make-the-string-great) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/yashraj1310/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yashraj1310/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2182-construct-string-with-repeat-limit](https://github.com/yashraj1310/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/yashraj1310/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yashraj1310/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1544-make-the-string-great](https://github.com/yashraj1310/LeetCode/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
 | ------- |
