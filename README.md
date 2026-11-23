@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/yashraj1310/LeetCode/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/yashraj1310/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [1006-clumsy-factorial](https://github.com/yashraj1310/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1094-car-pooling](https://github.com/yashraj1310/LeetCode/tree/master/1094-car-pooling) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/yashraj1310/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/yashraj1310/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashraj1310/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/yashraj1310/LeetCode/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/yashraj1310/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1006-clumsy-factorial](https://github.com/yashraj1310/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/yashraj1310/LeetCode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashraj1310/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/yashraj1310/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashraj1310/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/yashraj1310/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [1006-clumsy-factorial](https://github.com/yashraj1310/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashraj1310/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashraj1310/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/yashraj1310/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
